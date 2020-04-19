@@ -1,0 +1,56 @@
+1. 大专以上学历，计算机相关专业，3年以上软件测试经验，1年及以上性能测试经验；
+2. 熟悉性能测试流程，掌握loadrunner或jmeter其中一种工具；
+3. 熟练掌握nmon、Diagnostics、DynaTrace等常用性能监控工具的结果数据分析定位性能瓶颈；
+4. 熟悉接口测试，能编写接口自动化脚本；
+5. 至少掌握一种编程或脚本语言（如Java、Python等）；
+6. 熟悉Oracle/MySQL等数据库；
+7. 熟悉自动化测试工具（如QTP、selenium、appium、robotium等），优先考虑；
+
+
+
+面试准备
+1、python基础面试题
+2、java基础面试题
+3、selenium面试题
+4、接口面试题
+5、性能面试题
+6、笔试题
+
+
+
+
+
+
+1、一行代码实现1+2+3+。。。。+100的求和
+
+s4 = sum(range(1,101))
+
+2、在函数内部修改全局变量
+global 关键字
+nonlocal
+
+3、列出5个标准库
+a.urllib
+b.re
+c.math
+d.os
+e.datetime
+
+
+4、删除字典键值对
+a={'name':'xiaoming','age':'19'}
+
+del a['age']
+print(a)
+
+5、合并字典
+dict1={'a':1,'b':2}
+dict2={'c':3,'d':4}
+new_dict={**dict1,**dict2}
+print(new_dict)
+
+
+
+
+
+
